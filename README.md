@@ -1,2 +1,2 @@
 # azolla-UI
-ui for azolla
+user interface for azolla application
